@@ -1,5 +1,6 @@
 # Projet-PowerBI
 Dashboard Power BI – Analyse des ventes, marges et performances commerciales (projet académique)
+
 **Projet Power BI – Le Comptoir
 Objectif**
 Analyse des performances commerciales d'une entreprise fictive de distribution à travers un dashboard interactif Power BI.
